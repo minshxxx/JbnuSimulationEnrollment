@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="ProjectA.View.ResultControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjectA.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="407">
+
+    <Grid Width="407" Height="60">
+        <Grid.Background>
+            <ImageBrush x:Name="xImageBrush" ImageSource="/View/Resources/resultX.png"/>
+        </Grid.Background>
+
+        <TextBlock x:Name="xClassName" Text="컴퓨터프로그래밍기초" HorizontalAlignment="Right" 
+                   VerticalAlignment="Center" FontSize="18" Foreground="White" Padding="0,0,10,0" Margin="0,6,0,31"/>
+    </Grid>
+</UserControl>

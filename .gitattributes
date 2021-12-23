@@ -1,1 +1,5 @@
 . filter=lfs diff=lfs merge=lfs -text
+.vs/ filter=lfs diff=lfs merge=lfs -text
+ExecuteFile/ filter=lfs diff=lfs merge=lfs -text
+ProjectASharp.sln filter=lfs diff=lfs merge=lfs -text
+ProjectASharp filter=lfs diff=lfs merge=lfs -text

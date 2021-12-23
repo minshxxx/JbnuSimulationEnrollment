@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="ProjectA.View.AppliedControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjectA.View"
+			 xmlns:vm="clr-namespace:ProjectA.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="21" d:DesignWidth="394">
+    <UserControl.Resources>
+        <vm:IndexButton x:Key="IndexButton"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/View/Resources/AppliedClass2.png" Stretch="UniformToFill" x:Name="ClassControlColor"/>
+        </Grid.Background>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="54"/>
+            <ColumnDefinition Width="130"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="교양"  x:Name="xClassType"
+				   HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock x:Name="xClassName" Text="Name" Grid.Column="1" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock x:Name="xClassNum" Text="1" Grid.Column="2" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock  Text="3학점" Grid.Column="3" HorizontalAlignment="Center"
+                    VerticalAlignment="Center" />
+        <TextBlock x:Name="xClassProfessor" Text="교수"  Grid.Column="4" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <vm:IndexButton Content="취소" x:Name="xApplyButton" Grid.Column="6"		 Opacity="0"			
+                Command="{Binding Path=CancleButtonCommand}"
+                CommandParameter="{Binding ElementName=xApplyButton, Path=ButtonIndex}" Margin="0,2,6,1"/>
+    </Grid>
+</UserControl>

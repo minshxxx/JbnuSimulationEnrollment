@@ -1,0 +1,209 @@
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\startUI.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\startUI.baml
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\Administrator\source\repos\ProjectASharp\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\startUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\View\startUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\startUI.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\View\startUI.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectASharp (2)\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\startUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\startUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Simulation.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectASharp (2) (2)\ProjectASharp\obj\Debug\View\Simulation.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Simulation.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\startUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\Simulation.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\View\startUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\플젝\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Simulation.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\Simulation.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\플젝 (2)\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\mainUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Simulation.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\mainUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\Simulation.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\AppliedControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\AppliedControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\ClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\수업자료\윈도우즈 프로그래밍(C#)\플젝 20200611\ProjectASharp\obj\Debug\View\ClassControl.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectASharp.exe.config
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectASharp.exe
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectASharp.pdb
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.csprojAssemblyReference.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\AppliedControl.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ClassControl.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\rankUI.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Simulation.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp_MarkupCompile.lref
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\AppliedControl.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ClassControl.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\rankUI.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Simulation.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.g.resources
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.Properties.Resources.resources
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.csproj.GenerateResource.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.csproj.CoreCompileInputs.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.exe
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectASharp.pdb
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\HomeView.baml

@@ -1,0 +1,41 @@
+﻿<Window x:Class="ProjectA.View.PlayViewPopup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:ProjectA.ViewModel"
+        mc:Ignorable="d"
+        Title="PlayViewPopup" Height="720" Width="1280"
+        x:Name="ThisView" WindowStartupLocation = "CenterScreen" WindowStyle="None"
+		ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent">
+
+    <!--윈도우 리소스-->
+    <Window.Resources>
+        <vm:PlayPopupVM x:Key="PlayPopupVM"/>
+    </Window.Resources>
+
+    <Grid DataContext="{StaticResource PlayPopupVM}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/View/Resources/PlayViewPopup.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <!--대기 인원 출력-->
+        <vm:PlayPopupVM Text="{Binding Path=NowPerson}" window="{Binding ElementName=ThisView}"
+                   x:Name="xPersonNum" Margin="0,343,498,364" HorizontalAlignment="Right" Foreground="#FF0080FF" FontWeight="Bold"/>
+        <TextBlock Text="앞에            명이 대기중입니다." Margin="711,343,263,361" HorizontalAlignment="Center" Width="306" VerticalAlignment="Center"/>
+
+        <!--대기 인원 ProgressBar-->
+        <ProgressBar Maximum="{Binding Path=InitialPersonNum}" Height="10" Width="362" 
+                 Value="{Binding Path=NowPerson}" 
+                 Foreground="White" Background="#FF4390FF" Margin="614,328,304,382" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="180"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="ProjectA.View.ReadyControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjectA.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="924">
+    <Grid Width="924" Height="60">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="355*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush x:Name="xImageBrush" ImageSource="/View/Resources/ReadyViewControl.png"/>
+        </Grid.Background>
+
+        <TextBlock x:Name="xGoalNum" Text="1" 
+                   Foreground="White" FontSize="30"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="26,2,26,16" Height="40" Width="17" Grid.RowSpan="2"/>
+        <TextBlock x:Name="xType" Text="교양" Grid.Column="1"
+                   Foreground="White" FontSize="20"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="41,10,40,3" Height="30" Width="48" TextAlignment="Center"/>
+        <TextBlock x:Name="xClassName" Text="컴퓨터프로그래밍기초" Grid.Column="2"
+                   Foreground="White" FontSize="20"
+                   HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,10,0,1" Height="32"/>
+        <TextBlock x:Name="XClassProfessor" Text="민성환" Grid.Column="2"
+                   Foreground="White" FontSize="20"
+                   HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,10,10,1" Height="32" Width="165" TextAlignment="Right"/>
+    </Grid>
+</UserControl>

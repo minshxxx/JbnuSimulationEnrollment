@@ -1,0 +1,35 @@
+﻿<Window x:Class="ProjectA.View.WaitViewPopUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:ProjectA.ViewModel"
+        xmlns:cm="clr-namespace:ProjectA.ViewModel.Command"
+        xmlns:cv="clr-namespace:ProjectA.ViewModel.Converter"
+        mc:Ignorable="d"
+        Title="WaitViewPopUp" Height="720" Width="1280"
+        x:Name="ThisView" WindowStartupLocation = "CenterScreen" WindowStyle="None"
+		ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent">
+
+    <Window.Resources>
+        <cv:MultiCommandParameterConverter x:Key="CV"/>
+        <cm:UICommand x:Key="UICommand"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/View/Resources/WaitViewPopUp.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <!--Window닫기 버튼-->
+        <Button x:Name="ToExit" Opacity="0"
+				Command="{Binding Source={StaticResource UICommand}}">
+            <Button.CommandParameter>
+                <MultiBinding Converter="{StaticResource CV}">
+                    <Binding Path="Name" ElementName="ToExit"/>
+                    <Binding ElementName="ThisView"/>
+                </MultiBinding>
+            </Button.CommandParameter>
+        </Button>
+    </Grid>
+</Window>

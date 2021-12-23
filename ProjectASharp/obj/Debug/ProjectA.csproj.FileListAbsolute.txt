@@ -1,0 +1,308 @@
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\MinSH\Documents\콤보박스 바인딩\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200613\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200614-2\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\ResultView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\ResultView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200614-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\ResultControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\ResultView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\ResultControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\ResultView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 200615-2\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.baml
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.g.cs
+C:\Users\Administrator\Documents\카카오톡 받은 파일\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.baml
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe.config
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\bin\Debug\ProjectA.pdb
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\App.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA_MarkupCompile.lref
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayViewPopup.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\RecordControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ReadyControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ResultControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\PrintClassControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ResultView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\AppliedControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\UserControl\ClassControl.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Host.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\Intro.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\HomeView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\RecordView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\PlayView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\ReadyView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitView.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\View\WaitViewPopUp.baml
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.g.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.exe
+C:\Users\bunss\OneDrive\바탕 화면\ProjectA 20200617 (2)\ProjectA 200615-3\ProjectASharp\obj\Debug\ProjectA.pdb

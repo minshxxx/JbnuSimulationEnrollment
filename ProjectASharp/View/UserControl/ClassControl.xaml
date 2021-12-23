@@ -1,0 +1,147 @@
+﻿<UserControl x:Class="ProjectA.View.ClassControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+			 xmlns:vm="clr-namespace:ProjectA.ViewModel"
+			 xmlns:m="clr-namespace:ProjectA.Model"
+             xmlns:local="clr-namespace:ProjectA.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="42" d:DesignWidth="558"
+			 x:Name="xUserControl">
+    <UserControl.Resources>
+        <vm:IndexButton x:Key="IndexButton"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/View/Resources/ClassList.png" Stretch="UniformToFill" x:Name="ClassControlColor"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="52"/>
+            <ColumnDefinition Width="42"/>
+            <ColumnDefinition Width="43"/>
+            <ColumnDefinition Width="209"/>
+            <ColumnDefinition Width="39"/>
+            <ColumnDefinition Width="6"/>
+            <ColumnDefinition Width="45"/>
+            <ColumnDefinition Width="68"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <vm:IndexButton x:Name="xApplyButton" Content="신청" Opacity="0"
+					Grid.Row="0" Grid.RowSpan="2"
+					Grid.Column="0" Margin="7,14,8,12" HorizontalAlignment="Center" VerticalAlignment="Center"
+					Height="16" Width="37"
+					Command="{Binding Path=IndexButtonCommand}"
+					CommandParameter="{Binding ElementName=xUserControl}"/>
+
+        <TextBlock x:Name="XclassName"
+				   Text="강의명"
+				   Grid.Row="0"
+				   Grid.Column="2"
+                   Grid.ColumnSpan="2"
+				   HorizontalAlignment="Left"  
+                   VerticalAlignment="Center"  
+                   FontSize="11" Margin="10,0,0,0" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock x:Name="xclassType"
+				   Text="Type"
+				   Grid.Row="0"
+				   Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="11" Margin="9,3,9,2" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock x:Name="xClassStudentNum"
+				   Text="1"
+				   Grid.Row="1"
+				   Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="11" Margin="9,4,8,3" >
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock x:Name="xMaxNum"
+				   Text="maxNum"
+				   Grid.Row="1"
+				   Grid.Column="2" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="11"  >
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock x:Name="xClassLocation"
+				   Text="ClassLocation"
+				   Grid.Row="1"
+				   Grid.Column="3" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0" FontSize="10">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock Text="한국어" x:Name="Color3"
+				   Grid.Row="1"
+				   Grid.Column="4" HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="11" Margin="3,4,3,3">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <TextBlock Text="인증" x:Name="Color1"
+				   Grid.Row="0"
+				   Grid.Column="8" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="11" Margin="16,3,16,2" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock Text="1"
+				   x:Name="xClassNum"
+				   Grid.Row="0"
+				   Grid.Column="4" HorizontalAlignment="Center"   
+                   VerticalAlignment="Center" FontSize="11" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock Text="3"  x:Name="Color2"
+				   Grid.Row="0"
+				   Grid.Column="6" HorizontalAlignment="Center"   VerticalAlignment="Center" FontSize="11" Margin="19,3,19,2" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock x:Name="xClassProfessor"
+				   Text="professor"
+				   Grid.Row="0"
+				   Grid.Column="7" HorizontalAlignment="Center"  
+                    VerticalAlignment="Center" FontSize="11" Margin="11,3,10,2" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <TextBlock x:Name="xClassTime"
+				   Text=" When"
+				   Grid.Row="1"
+                   Grid.ColumnSpan="3"
+				   Grid.Column="6" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="9" Margin="0,5">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+    </Grid>
+</UserControl>
